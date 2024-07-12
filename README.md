@@ -10,7 +10,7 @@ I have spent a lot of programming for cross-platform applications, I've learned 
 - C# with the MAUI library to create applications for mobile devices. :palm_tree: 
 - Python with Bottle to make dinamic websites :sake:
 
-##### The basics of the Unity editor  :video_game:
+##### What I have learned about the Unity editor  :video_game:
 - Using and organizing gameobjects :pill:
 - Controlling game states :hourglass:
 - Control inputs received by the player :gun:
