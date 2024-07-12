@@ -6,7 +6,7 @@ My name is Carlos, I am a higher technician in cross-platform application develo
 I have spent a lot of programming for cross-platform applications, I've learned this during this time
 
 - Java as a language to learn OOP and database connections. :coffee:
-- Java Java as a programming language in Android Studio 📱
+- Java as a programming language in Android Studio 📱
 - C# with the MAUI library to create applications for mobile devices. :palm_tree: 
 - Python with Bottle to make dinamic websites :sake:
 
