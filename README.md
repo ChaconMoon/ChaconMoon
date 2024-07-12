@@ -1,6 +1,6 @@
 ## Hi there :grin:
 
-My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer.
+My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
 ### About me :waning_crescent_moon:
 I have spent a lot of programming for cross-platform applications, I've learned this during this time
