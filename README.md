@@ -17,5 +17,5 @@ I have spent a lot of programming for cross-platform applications, I've learned 
 - Making 2D sprite animations :running:
 - Very basic AI to control enemies. :space_invader:
 - Very basic procedural generation of game elements :mount_fuji:
-- Inventory systems with items that the player can store and take out :open_file_folder:
+- Inventory systems :open_file_folder:
 - Dialogue systems for narrative games. :closed_book:
