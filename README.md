@@ -3,56 +3,52 @@
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
 
-<div width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" width="45%" style="margin-right:7%; margin-buttom:50%;position:relative">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula" width="45%" style="position:relative">
+<div style="height:20%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github"style="height:200px; margin-left:5%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula"style="height:200px; margin-left:5%"">
 </div>
 
 - - -
 
-### Programming lenguajes that I have used
+### Programming languages / Frameworks that I have used
 
 <div align="center">
 <a href="./README_Python.md">
-<img src="https://skillicons.dev/icons?i=python" style="20px;" />
+<img src="https://skillicons.dev/icons?i=python" style="10px; margin-right:3%" />
+</a>
+<a href="./README_Unity.md">
+<img src="https://skillicons.dev/icons?i=unity" style="20px;margin-right:3%" />
+</a>
+<a href="./README_DOT_NET.md">
+<img src="https://skillicons.dev/icons?i=dotnet" style="20px;margin-right:3%" />
 </a>
 </div>
 
+---
+### IDE that I have used
+<div align="center">
+<a href="">
+<img src="https://skillicons.dev/icons?i=visualstudio" style="10px; margin-right:3%" />
+</a>
+<a href="">
+<img src="https://skillicons.dev/icons?i=vscode" style="10px; margin-right:3%" />
+</a>
+</div>
+
+---
+
+### Contact
+
+<a href="mailto:chaconmoondev@gmail.com" style="margin-right:50px">
+<img src="https://img.shields.io/badge/Contact-Profesional%20Email-red?logo=gmail&logoColor=red">
+</a>
+<a href="https://www.linkedin.com/in/carlos-chacón-0991781b8/" style="margin-left:50px">
+<img src="https://img.shields.io/badge/Linkedin-blue
+">
+</a>
 
 
-##### What I have learned about the Unity editor  :video_game:
-- Using and organizing gameobjects 💊
-- Controlling game states ⌛
-- Control inputs received by the player 🔫
-- Making 2D sprite animations 🏃
-- Very basic AI to control enemies. 👾
-- Very basic procedural generation of game elements 🗻
-- Inventory systems 📂
-- Dialogue systems for narrative games. 📕
 
-Unity Projects:
-- [Deadly Harmony (A Visual Novel)](https://github.com/ChaconMoon/Deadly-Harmony)
-- [A example of Survival Game](https://github.com/ChaconMoon/Island-Survival-Test)
-- [A Metroid Clone](https://github.com/ChaconMoon/PixelMetroid)
 
-##### What I have learned about Python 🐍
-- Use Bottle to make websites
-- Web scrapping using Selenium 🕷️
-- Manage WiFi networks using PyWifi 🛜
-- Connect and publish in social media using Tweepy and ATProto APIs 🐦
-- Download files from web using requests ⬇️
-- Manage files using os library 📁
-- Access to data in JSON documents 💾
 
-.Python Projects:
-- Switch Media Downloader (in Development, Private repository)
 
-##### What I have learned about .Net platform
-- Use MAUI library to create applications for mobile devices. 🌴
-- Create basic Windows Forms 🪟
-- Connect to a API REST 🗺️
-- Manage diferent projects in the same solution using Model-View-Controller 💾 🔄 🪟
-- Testing using NUnit ✔️ ❌
-
-.NET Projects:
-- [NIST Vulnerabilty Browser](https://github.com/ChaconMoon/NIST-Vulnerabilities-Browser)
