@@ -3,9 +3,9 @@
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" height="230" style="margin-right:20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula" height="230">
+<div width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" width="45%" style="margin-right:7%; margin-buttom:50%;position:relative">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula" width="45%" style="position:relative">
 </div>
 
 - - -
