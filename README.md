@@ -2,8 +2,23 @@
 
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
-### About me :waning_crescent_moon:
-I have spent a lot of programming for cross-platform applications, I've learned this during this time 
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" height="230" style="margin-right:20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula" height="230">
+</div>
+
+- - -
+
+### Programming lenguajes that I have used
+
+<div>
+<a href"./README_Python.md">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+</div>
+
+
 
 ##### What I have learned about the Unity editor  :video_game:
 - Using and organizing gameobjects 💊
