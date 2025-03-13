@@ -12,9 +12,9 @@ My name is Carlos, I am a higher technician in cross-platform application develo
 
 ### Programming lenguajes that I have used
 
-<div>
-<a href"./README_Python.md">
-<img src="https://skillicons.dev/icons?i=python" />
+<div align="center">
+<a href="./README_Python.md">
+<img src="https://skillicons.dev/icons?i=python" style="20px;" />
 </a>
 </div>
 
