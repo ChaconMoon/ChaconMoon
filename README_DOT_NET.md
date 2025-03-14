@@ -6,5 +6,6 @@
 - Testing using NUnit ✔️ ❌
 
 .NET Projects:
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=NIST-Vulnerabilities-Browser&theme=dracula">
+<div style="dsiplay:inline">
+<a href="https://github.com/ChaconMoon/NIST-Vulnerabilities-Browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=NIST-Vulnerabilities-Browser&theme=dracula"></a>
+</div>
