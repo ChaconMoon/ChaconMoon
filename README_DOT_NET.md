@@ -1,4 +1,4 @@
-##### What I have learned about .Net platform
+## What I have learned about .Net platform <img src="https://skillicons.dev/icons?i=dotnet" style="height:20px" />
 - Use MAUI library to create applications for mobile devices. 🌴
 - Create basic Windows Forms 🪟
 - Connect to a API REST 🗺️

@@ -1,4 +1,4 @@
-##### What I have learned about the Unity editor  :video_game:
+## My experience with Unity <img src="https://skillicons.dev/icons?i=unity" style="height:20px" />
 - Using and organizing gameobjects 💊
 - Controlling game states ⌛
 - Control inputs received by the player 🔫
