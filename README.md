@@ -1,7 +1,5 @@
 ## Hi there :grin:
 
-## Hi there :grin:
-
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
 
@@ -15,9 +13,6 @@ My name is Carlos, I am a higher technician in cross-platform application develo
 ### Programming languages / Frameworks that I have used
 
 <div align="center">
-<a href="./README_Python.md"><img src="https://skillicons.dev/icons?i=python" style="10px; margin-right:3%" /></a>
-<a href="./README_Unity.md"><img src="https://skillicons.dev/icons?i=unity" style="20px;margin-right:3%" /></a>
-<a href="./README_DOT_NET.md"><img src="https://skillicons.dev/icons?i=dotnet" style="20px;margin-right:3%" /></a>
 <a href="./README_Python.md"><img src="https://skillicons.dev/icons?i=python" style="10px; margin-right:3%" /></a>
 <a href="./README_Unity.md"><img src="https://skillicons.dev/icons?i=unity" style="20px;margin-right:3%" /></a>
 <a href="./README_DOT_NET.md"><img src="https://skillicons.dev/icons?i=dotnet" style="20px;margin-right:3%" /></a>
