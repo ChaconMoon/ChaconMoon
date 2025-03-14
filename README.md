@@ -1,7 +1,5 @@
 ## Hi there :grin:
 
-## Hi there :grin:
-
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
 
