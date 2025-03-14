@@ -10,7 +10,7 @@
 
 Unity Projects:
 <div style="dsiplay:inline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=Deadly-Harmony&theme=dracula" style="width:40%; margin:2%;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=Island-Survival-Test&theme=dracula" style="width:40%; margin:2%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=PixelMetroid&theme=dracula" style="width:40%; margin:2%">  
+<a href="https://github.com/ChaconMoon/Deadly-Harmony"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=Deadly-Harmony&theme=dracula" style="width:40%; margin:2%;"></a>
+<a href="https://github.com/ChaconMoon/Island-Survival-Test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=Island-Survival-Test&theme=dracula" style="width:40%; margin:2%"></a>
+<a href="https://github.com/ChaconMoon/PixelMetroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaconmoon&repo=PixelMetroid&theme=dracula" style="width:40%; margin:2%"></a>
 </div>
