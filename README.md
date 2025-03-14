@@ -18,6 +18,9 @@ My name is Carlos, I am a higher technician in cross-platform application develo
 <a href="./README_Python.md"><img src="https://skillicons.dev/icons?i=python" style="10px; margin-right:3%" /></a>
 <a href="./README_Unity.md"><img src="https://skillicons.dev/icons?i=unity" style="20px;margin-right:3%" /></a>
 <a href="./README_DOT_NET.md"><img src="https://skillicons.dev/icons?i=dotnet" style="20px;margin-right:3%" /></a>
+<a href="./README_Python.md"><img src="https://skillicons.dev/icons?i=python" style="10px; margin-right:3%" /></a>
+<a href="./README_Unity.md"><img src="https://skillicons.dev/icons?i=unity" style="20px;margin-right:3%" /></a>
+<a href="./README_DOT_NET.md"><img src="https://skillicons.dev/icons?i=dotnet" style="20px;margin-right:3%" /></a>
 </div>
 
 ---
