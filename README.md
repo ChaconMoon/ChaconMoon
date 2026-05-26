@@ -2,12 +2,6 @@
 
 My name is Carlos, I am a higher technician in cross-platform application development and a qualified video game developer from Toledo (Spain)
 
-
-<div style="height:20%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chaconmoon&show_icons=true&theme=dracula&rank_icon=github"style="height:200px; margin-right:5%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaconmoon&theme=dracula"style="height:200px;">
-</div>
-
 - - -
 
 ### Programming languages / Frameworks that I have used
